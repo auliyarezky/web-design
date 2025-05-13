@@ -1,6 +1,6 @@
 // Update the story content to include image paths
 const storyContent = {
-  "Di Ruangan Lain": {
+  "Di ruangan lain": {
     category: "Cerita Pendek",
     description:
       "Fani sering melihat sosok aneh ketika melewati gedung itu. Hingga suatu ketika, ia berhadapan dengan sosok itu",
